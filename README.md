@@ -6,7 +6,7 @@ I have a real passion for tinkering and a career change into Data Science has so
 
 It is early days but so far I've been quite drawn towards problem solving with the entire arsenal of machine learning in my grasp. The recent project researching feature extraction techniques was a lot of fun, the versatility of autoencoder architectures is astounding. I'm also very much enjoying digging into the yaw-misalignment problem for wind turbines, developing my own version of an outlier detection and removal algorithm that utilises computer vision. 
 
-This profile is a WIP, but best to have some of my passion here whilst I try to squeeze the time in away from my studies.
+This profile is a WIP, but best to have some of my passion here whilst I try to squeeze the time in away from my studies. You can find some of my work here: https://github.com/Paul-Williamson-90/Machine-Learning-Portfolio
 
 - 🔭 I’m currently working on ...
 Yaw-misalignment and early fault detection
