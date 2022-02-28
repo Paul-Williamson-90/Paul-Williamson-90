@@ -1,12 +1,16 @@
-### Welcome to my 'tool-shed'
+### Welcome to my modern day 'tool-shed'
 
-My name is Paul, I'm currently working my way towards a distinction (fingers-crossed) on the MSc Data Science course at Birkbeck, University of London.
+There is nothing like the feeling of encountering a complex puzzle. This is why I love Data Science. I love to find interesting ways to visualise data to reveal hidden insights, and creatively apply my professional knowledge to extract latent value that supports business intelligence, and the development of tech solutions for emerging needs. 
 
-I have a real passion for tinkering and a career change into Data Science has so far proven to be the best choice of my life. As an avid creative as well as an eager problem solver, being able to combine the two is truly amazing.
+What I offer is very much the core of my personality, and the biggest value I add is in pushing the boundaries of creativity via tech resourcefulness and logical thinking. This can be seen in my work developing an outlier detection solution using computer vision, and in my marketing segmentation work for enhanced service personalisation. 
 
-It is early days but so far I've been quite drawn towards problem solving with the entire arsenal of machine learning in my grasp. The recent project researching feature extraction techniques was a lot of fun, the versatility of autoencoder architectures is astounding. I'm also very much enjoying digging into the yaw-misalignment problem for wind turbines, developing my own version of an outlier detection and removal algorithm that utilises computer vision. 
+Data Science is as much a hobby as it is a career, it suits my proclivity for technical work. This passion led to teaching myself the complex process of sound design and engineering, and equally, my spare time consists of reading article after article from fellow Data Scientists on Medium to find out about interesting ideas. Balancing equalisation to get sounds to poke through a mix is just like fine-tuning regularisation hyperparameters on deep learning models to ensure suitable generalisation that prevents overfitting. 
 
-This profile is a WIP, but best to have some of my passion here whilst I try to squeeze the time in away from my studies. You can find some of my work here: https://github.com/Paul-Williamson-90/Machine-Learning-Portfolio
+My passion is how I connect with others, sharing ideas, knowledge and appreciation for other's work. I value the connections I’ve made with my peers, and I’ve made great friends who I learn from, gaining a more diverse perspective. In the future I believe I will make a great mentor and manager, as I have really enjoyed helping those struggling in some subjects I’ve found to have a knack for. 
+
+It is a pleasure to work with people from different backgrounds as it is an opportunity to learn as well as discuss topics I’m passionate about. This is what I have experienced whilst working on a side project with friends, developing a software as a service application that will inform skaters whether parks will be safe. The end product will utilise meteorological data and predictive modelling, deployed via distributed systems over the cloud. It feels amazing to work in a team where we best utilise our combined expertise towards an objective. 
+
+This is everything I want from life. I’m not the most extroverted person as an INTJ, but I’m a huge team player who is incredibly passionate about his craft, and I want to achieve awesome things with equally passionate professionals and make collaborative connections. We are in the 4th industrial revolution, what is more exciting than being a driving force in that?? 
 
 - 🔭 I’m currently working on ...
 Yaw-misalignment and early fault detection
