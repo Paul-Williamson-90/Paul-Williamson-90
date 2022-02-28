@@ -2,7 +2,7 @@
 
 There is nothing like the feeling of encountering a complex puzzle. This is why I love Data Science. I love to find interesting ways to visualise data to reveal hidden insights, and creatively apply my professional knowledge to extract latent value that supports business intelligence, and the development of tech solutions for emerging needs. 
 
-What I offer is very much the core of my personality, and the biggest value I add is in pushing the boundaries of creativity via tech resourcefulness and logical thinking. This can be seen in my work developing an outlier detection solution using computer vision, and in my marketing segmentation work for enhanced service personalisation. 
+What I offer is very much the core of my personality, and the biggest value I add is in pushing the boundaries of creativity via tech resourcefulness and logical thinking. This can be seen in my work developing an outlier detection solution using computer vision, and in my market segmentation work for enhanced service personalisation. 
 
 Data Science is as much a hobby as it is a career, it suits my proclivity for technical work. This same passion led to teaching myself the complex process of sound design and engineering, and equally, my spare time consists of reading article after article from fellow Data Scientists on Medium to find out about interesting ideas. Balancing equalisation to get sounds to poke through a mix is just like fine-tuning regularisation hyperparameters on deep learning models to ensure suitable generalisation that prevents overfitting. 
 
