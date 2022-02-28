@@ -16,10 +16,10 @@ This is everything I want from life. I’m not the most extroverted person as an
 Yaw-misalignment and early fault detection for wind turbines
 
 - 🌱 I’m currently learning ...
-How to develop apps on the cloud as a SAAS, and advanced data science techniques within the field of spectral analysis (matrix fun!)
+how to develop apps on the cloud as a SAAS, and advanced data science techniques within the field of spectral analysis (matrix fun!)
 
 - 🏆 My ambition is...
-My goal is to work for an ambitious organisation that is at the frontier of the 4th industrial revolution. The perfect role will allow me to be creative, have a diverse range of problems to solve, and a great team to work alongside that share a passion for their craft
+to work for an ambitious organisation that is at the frontier of the 4th industrial revolution. The perfect role will allow me to be creative, have a diverse range of problems to solve, and a great team to work alongside that share a passion for their craft
 
 - 📫 How to reach me: ...
 paul.w.900430@gmail.com
