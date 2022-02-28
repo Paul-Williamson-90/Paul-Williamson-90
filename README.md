@@ -13,10 +13,10 @@ It is a pleasure to work with people from different backgrounds as it is an oppo
 This is everything I want from life. I’m not the most extroverted person as an INTJ, but I’m a huge team player who is incredibly passionate about his craft, and I want to achieve awesome things with equally passionate professionals and make collaborative connections. We are in the 4th industrial revolution, what is more exciting than being a driving force in that?? 
 
 - 🔭 I’m currently working on ...
-Yaw-misalignment and early fault detection
+Yaw-misalignment and early fault detection for wind turbines
 
 - 🌱 I’m currently learning ...
-Loving the challenge in learning how to develop SAAS apps and other cloud computing related knowledge
+How to develop apps on the cloud as a SAAS, and advanced data science techniques within the field of spectral analysis (matrix fun!)
 
 - 🏆 My ambition is...
 My goal is to work for an ambitious organisation that is at the frontier of the 4th industrial revolution. The perfect role will allow me to be creative, have a diverse range of problems to solve, and a great team to work alongside that share a passion for their craft
